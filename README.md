@@ -34,6 +34,12 @@
 | **Figure 5:** Original Fusion 360 iteration with internal Bay & Servo Layout | **Figure 6:** Second Fusion 360 iteration with Elastic Wing Mount  |
 | ![Figure 5](cad1) | ![Figure 6](cad2) |
 
+| Figure 7 | Figure 8 |
+| :---: | :---: |
+| **Figure 7:** Original prototype | **Figure 8:** VSPAERO Vortex Lattice Method (VLM) Mesh |
+| ![Figure 1](rcplane.jpeg) | ![Figure 2](3dprinting.jpeg) |
+
+
 
 
 
