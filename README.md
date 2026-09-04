@@ -37,6 +37,6 @@
 | Figure 7 | Figure 8 |
 | :---: | :---: |
 | **Figure 7:** Original prototype | **Figure 8:** Analysis used to determine cog |
-| ![Figure 5](plane) | ![Figure 6](cog) |
+| ![Figure 7](plane) | ![Figure 8](cog) |
 
 
