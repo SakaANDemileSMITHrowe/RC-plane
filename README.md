@@ -39,6 +39,19 @@
 | **Figure 7:** Original prototype | 
 | ![Figure 1](rcplane.jpeg) | 
 
+---
+
+## 4. Payload & Avionics Integration
+
+* **Sledge Architecture:** Designed a 1-piece, 3D-printed PETG sledge ($135\text{mm} \times 38.5\text{mm}$) rated to $75^\circ\text{C}$ glass transition temperature to prevent structural deformation under battery loads.
+* **Structural Tie-Rods:** Suspended between two $42\text{mm}$ diameter birch plywood bulkheads using dual $3\text{mm}$ stainless steel threaded rods to handle high tension during parachute deployment.
+* **Vibration & Recovery:** Secured with Nyloc hex nuts and shoulder washers to dampen flight vibrations, featuring a central threaded eyebolt for recovery rigging.
+
+| Avionics CAD Render | Physical Assembly / Fit Check |
+| :---: | :---: |
+| **Figure 9:** PETG Sledge & Rod Integration | **Figure 10:** Bulkhead & Nyloc Assembly |
+| ![Figure 9](avionics_cad.jpg) | ![Figure 10](avionics_physical.jpg) |
+
 
 
 
