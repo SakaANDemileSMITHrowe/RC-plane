@@ -42,6 +42,7 @@
 ---
 
 ## 4. Payload & Avionics Integration
+<a name="avionics"></a>
 
 * **Sledge Architecture:** Designed a 1-piece, 3D-printed PETG sledge ($135\text{mm} \times 38.5\text{mm}$) rated to $75^\circ\text{C}$ glass transition temperature to prevent structural deformation under battery loads.
 * **Structural Tie-Rods:** Suspended between two $42\text{mm}$ diameter birch plywood bulkheads using dual $3\text{mm}$ stainless steel threaded rods to handle high tension during parachute deployment.
