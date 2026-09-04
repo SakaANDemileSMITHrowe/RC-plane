@@ -22,20 +22,19 @@
 | Figure 1 | Figure 2 |
 | :---: | :---: |
 | **Figure 1:** OpenVSP Geometry & Wing Planform Layout | **Figure 2:** VSPAERO Vortex Lattice Method (VLM) Mesh |
-| ![Figure 1](file:///Users/paul/Pictures/Photos%20Library.photoslibrary/originals/9/98EA3D9A-DF18-4943-8F7D-6D786090CBDE.jpeg) | ![Figure 2](file:///Users/paul/Pictures/Photos%20Library.photoslibrary/originals/4/4E5DECBD-A92E-4537-9192-2BCA4565277A.jpeg) |
+| ![Figure 1](fig1.jpg) | ![Figure 2](fig2.jpg) |
 
 | Figure 3 | Figure 4 |
 | :---: | :---: |
 | **Figure 3:** Lift Distribution & Pressure Gradients | **Figure 4:** Pitching Moment Curves & Stability Analysis |
-| ![Figure 3](file:///Users/paul/Pictures/Photos%20Library.photoslibrary/originals/6/631CB189-95B8-4282-9634-996106C582FF.jpeg) | ![Figure 4](file:///Users/paul/Pictures/Photos%20Library.photoslibrary/originals/1/13D79FCE-D97F-4932-A2C7-B1D7E39A300D.jpeg) |
+| ![Figure 3](fig3.jpg) | ![Figure 4](fig4.jpg) |
 
 | Figure 5 | Figure 6 |
 | :---: | :---: |
 | **Figure 5:** Fusion 360 Internal Bay & Servo Layout | **Figure 6:** Elastic Wing Mount Assembly Detail |
-| ![Figure 5](file:///Users/paul/Pictures/Photos%20Library.photoslibrary/originals/7/759DB404-3FD6-411B-8DF3-941145AAF795.jpeg) | ![Figure 6](file:///Users/paul/Pictures/Photos%20Library.photoslibrary/originals/4/47818D58-1055-482B-BB82-23970282F957.jpeg) |
+| ![Figure 5](fig5.jpg) | ![Figure 6](fig6.jpg) |
 
 | Figure 7 | Figure 8 |
 | :---: | :---: |
 | **Figure 7:** Original Prototype Flight Testing (Glider Frame) | **Figure 8:** 3D Printed Airframe Components & Assembly |
-| ![Figure 7](REPLACE_WITH_IMAGE_7_URL) | ![Figure 8](
-) |
+| ![Figure 7](fig7.jpg) | ![Figure 8](fig8.jpg) |
