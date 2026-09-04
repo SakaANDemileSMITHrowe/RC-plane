@@ -34,9 +34,6 @@
 | **Figure 5:** Fusion 360 Internal Bay & Servo Layout | **Figure 6:** Elastic Wing Mount Assembly Detail |
 | ![Figure 5](cad1) | ![Figure 6](cad2) |
 
-| Figure 7 | Figure 8 |
-| :---: | :---: |
-| **Figure 7:** Original prototype | **Figure 8:** Analysis used to determine cog |
-| ![Figure 7](irl) | ![Figure 8](cog) |
+
 
 
