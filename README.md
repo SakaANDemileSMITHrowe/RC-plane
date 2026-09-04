@@ -26,12 +26,12 @@
 
 | Figure 3 | Figure 4 |
 | :---: | :---: |
-| **Figure 3:** Lift Distribution & Pressure Gradients | **Figure 4:** Pitching Moment Curves & Stability Analysis |
+| **Figure 3:** Lift Distribution curve | **Figure 4:** Pressure Gradients |
 | ![Figure 3](cl) | ![Figure 4](pressure) |
 
 | Figure 5 | Figure 6 |
 | :---: | :---: |
-| **Figure 5:** Fusion 360 Internal Bay & Servo Layout | **Figure 6:** Elastic Wing Mount Assembly Detail |
+| **Figure 5:** Original Fusion 360 iteration with internal Bay & Servo Layout | **Figure 6:** Second Fusion 360 iteration with Elastic Wing Mount  |
 | ![Figure 5](cad1) | ![Figure 6](cad2) |
 
 
