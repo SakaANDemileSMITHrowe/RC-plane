@@ -52,7 +52,7 @@
 | Avionics CAD Render | Physical Assembly / Fit Check |
 | :---: | :---: |
 | **Figure 9:** PETG Sledge & Rod Integration | **Figure 10:** Bulkhead & Nyloc Assembly |
-| ![Figure 9](avionics_cad.jpg) | ![Figure 10](avionics_physical.jpg) |
+| ![Figure 9](sc) | ![Figure 10](avionics_physical.jpg) |
 
 
 
