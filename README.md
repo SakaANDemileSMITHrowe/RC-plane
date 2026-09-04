@@ -7,7 +7,7 @@
 * **Geometry & Wing Planform:** Designed and modelled three 0.75m span iterations in OpenVSP using a NACA 0006 airfoil (AR 6.1, 0.60 taper ratio) to *approximate an elliptical lift distribution and minimise induced drag*.
 * **VLM Cruise Sweep:** Ran VSPAERO VLM baseline sweep at 20m/s *to hit target cruise $C_L = 0.475$, implementing a +3° wing incidence to eliminate nose-up fuselage attitude and reduce parasitic cruise drag*.
 * **Trim & Stability Analysis:** Executed trim analysis to evaluate lift, drag, pitching moments, and stability across 10 angles of attack. Calculated CoG placement via VLM results *to guarantee a 10–15% static margin*.
-* **Flow Verification:** Analysed generated graphs to verify pressure and wake distributions, ensuring no premature tip stalls occurred.
+* **Flow Verification:** Analysed generated graphs to verify pressure and wake distributions, ensuring no premature tip stalls occurred
 
 ---
 
