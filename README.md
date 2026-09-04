@@ -22,19 +22,21 @@
 | Figure 1 | Figure 2 |
 | :---: | :---: |
 | **Figure 1:** OpenVSP Geometry & Wing Planform Layout | **Figure 2:** VSPAERO Vortex Lattice Method (VLM) Mesh |
-| ![Figure 1](fig1.jpg) | ![Figure 2](fig2.jpg) |
+| ![Figure 1](openvsp) | ![Figure 2](wake) |
 
 | Figure 3 | Figure 4 |
 | :---: | :---: |
 | **Figure 3:** Lift Distribution & Pressure Gradients | **Figure 4:** Pitching Moment Curves & Stability Analysis |
-| ![Figure 3](fig3.jpg) | ![Figure 4](fig4.jpg) |
+| ![Figure 3](cl) | ![Figure 4](pressure) |
 
 | Figure 5 | Figure 6 |
 | :---: | :---: |
 | **Figure 5:** Fusion 360 Internal Bay & Servo Layout | **Figure 6:** Elastic Wing Mount Assembly Detail |
-| ![Figure 5](fig5.jpg) | ![Figure 6](fig6.jpg) |
+| ![Figure 5](cad1) | ![Figure 6](cad2) |
 
 | Figure 7 | Figure 8 |
 | :---: | :---: |
-| **Figure 7:** Original Prototype Flight Testing (Glider Frame) | **Figure 8:** 3D Printed Airframe Components & Assembly |
-| ![Figure 7](fig7.jpg) | ![Figure 8](fig8.jpg) |
+| **Figure 7:** Original prototype | **Figure 8:** Analysis used to determine cog |
+| ![Figure 5](plane) | ![Figure 6](cog) |
+
+
