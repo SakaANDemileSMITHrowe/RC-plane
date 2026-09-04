@@ -46,6 +46,8 @@
 * **Sledge Architecture:** Designed a 1-piece, 3D-printed PETG sledge ($135\text{mm} \times 38.5\text{mm}$) rated to $75^\circ\text{C}$ glass transition temperature to prevent structural deformation under battery loads.
 * **Structural Tie-Rods:** Suspended between two $42\text{mm}$ diameter birch plywood bulkheads using dual $3\text{mm}$ stainless steel threaded rods to handle high tension during parachute deployment.
 * **Vibration & Recovery:** Secured with Nyloc hex nuts and shoulder washers to dampen flight vibrations, featuring a central threaded eyebolt for recovery rigging.
+* **Material selection:** 3D printed our sledge out of PETG due its heat resistance properties, retaining its structural stability up to 75 degrees celsius, ensuring it won’t warp or deform under the weight of the battery and other avionics components whilst giving us the freedom to design a precise optimised geometry, unlike if we constructed one out of multiple bodies. The rods will be made out of stainless steel due to its high UTS. As the material would perform well under the high tension it will experience during parachute deployment whilst meeting the other requirements. We chose plywood for the bulkheads as it is cheap and lightweight, whilst good at handling compression from the airframe. Nyloc nuts were also specifically chosen due to their ability to cope with the high vibrations normal nuts cannot.
+* **Optimising :** Worked closely with the structures team to ensure bay was correct dimensions, weight and was recoverable and with the avionics team to allow optimal placing of components, taking into account positions of wires and more.
 
 | Avionics CAD Render | Physical Assembly / Fit Check |
 | :---: | :---: |
